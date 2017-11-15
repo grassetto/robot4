@@ -1,7 +1,8 @@
-18/10/2017: Lettura regolamento RoboCup jr Rescue Line
+18/10/2017: Lettura regolamento RoboCup jr Rescue Line.
 20/10/2017: Lezione: Fasi da seguire per la realizzazione di un robot.
-25/10/2017: Realizzazione prima bozza
-27/10/2017: Avanzamento prima bozza
-03/11/2017: Scelta motori robot
-08/11/2017: Visione generale sui sensori per il follow line
-10/11/2017: Lezione: Utilizzo GitHub
+25/10/2017: Realizzazione prima bozza.
+27/10/2017: Avanzamento prima bozza.
+03/11/2017: Scelta motori robot.
+08/11/2017: Visione generale sui sensori per il follow line.
+10/11/2017: Lezione: Utilizzo GitHub.
+15/11/2017: Visione bozza telaio e supporto telecamera raspberry pi v2.
