@@ -6,3 +6,4 @@
 08/11/2017: Visione generale sui sensori per il follow line.
 10/11/2017: Lezione: Utilizzo GitHub.
 15/11/2017: Visione bozza telaio e supporto telecamera raspberry pi v2.
+22/11/2017: Inizio/Fine progetto telaio AutoCad
