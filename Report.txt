@@ -8,3 +8,4 @@
 15/11/2017: Visione bozza telaio e supporto telecamera raspberry pi v2.
 22/11/2017: Inizio progetto telaio AutoCad
 24/11/2017: Fine progetto telaio AutoCad
+29/11/2017: Inizi algoritmi di rilevamento linea
