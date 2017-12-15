@@ -11,3 +11,4 @@
 29/11/2017: Inizi algoritmi di rilevamento linea
 01/12/2017: Studio algoritmi per il line follower
 14/12/2017: Installazione librerie necessarie e Protocollo SSH per Raspberry
+15/12/2017: Briefing e organizzazione lavori per Follow Line
