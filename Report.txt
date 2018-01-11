@@ -12,4 +12,5 @@
 01/12/2017: Studio algoritmi per il line follower
 14/12/2017: Installazione librerie necessarie e Protocollo SSH per Raspberry
 15/12/2017: Briefing e organizzazione lavori per Follow Line
-10/01/2017: Algoritmo che rileva bianco e nero dai valori RGB
+10/01/2018: Algoritmo che rileva bianco e nero dai valori RGB
+11/01/2018: Filtraggio del disturbo immagine, inizio debug e file di config
