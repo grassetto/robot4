@@ -1,0 +1,5 @@
+#File di configurazione per le variabili importanti di Robot4.py
+#I primi 7 caratteri non vengono letti dal programma.
+#------
+debug: 0
+nero : 50
