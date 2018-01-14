@@ -14,3 +14,4 @@
 15/12/2017: Briefing e organizzazione lavori per Follow Line
 10/01/2018: Algoritmo che rileva bianco e nero dai valori RGB
 11/01/2018: Filtraggio del disturbo immagine, inizio debug e file di config
+14/01/2018: Applico filtro laplace e gauss. Rilevo coordinate linea
